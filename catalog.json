@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-07-25T09:27:31Z",
+  "version": 6,
+  "updatedAt": "2026-07-27T16:08:11Z",
   "entries": [
     {
       "id": "uob-preferred-platinum-visa",
@@ -84,7 +84,8 @@
       ],
       "fcyFeePercent": 0.0325,
       "earnBlockSize": 5,
-      "milesProgram": "KrisFlyer (DBS Points)"
+      "milesProgram": "KrisFlyer (DBS Points)",
+      "fcyBaseMilesPerDollar": 4.0
     },
     {
       "id": "citi-rewards",
@@ -254,8 +255,9 @@
         "government"
       ],
       "fcyFeePercent": 0.0325,
-      "earnBlockSize": 5,
-      "milesProgram": "KrisFlyer (OCBC$)"
+      "earnBlockSize": 1.0,
+      "milesProgram": "KrisFlyer (OCBC$)",
+      "fcyBaseMilesPerDollar": 2.1
     },
     {
       "id": "hsbc-travelone-visa",
@@ -320,7 +322,7 @@
       "issuer": "Standard Chartered",
       "productName": "Visa Infinite Card",
       "network": "visa",
-      "baseMilesPerDollar": 1.0,
+      "baseMilesPerDollar": 3.0,
       "earnRules": [
         {
           "id": "scb-visa-infinite.local-threshold",
@@ -355,7 +357,8 @@
         "utilities"
       ],
       "fcyFeePercent": 0.035,
-      "milesProgram": "KrisFlyer (360° Rewards)"
+      "milesProgram": "KrisFlyer (360° Rewards)",
+      "earnBlockSize": 1.0
     },
     {
       "id": "boc-elite-miles-world-mastercard",
@@ -439,7 +442,7 @@
           "channels": [
             "any"
           ],
-          "milesPerDollar": 4.0,
+          "milesPerDollar": 10.0,
           "monthlyCap": 2000,
           "categoryChoiceLimit": 2
         }
