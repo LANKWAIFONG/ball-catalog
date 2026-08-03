@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T16:33:37Z",
+  "updatedAt": "2026-08-03T05:45:08Z",
   "entries": [
     {
       "id": "uob-preferred-platinum-visa",
@@ -83,7 +83,8 @@
       ],
       "fcyFeePercent": 0.0325,
       "earnBlockSize": 5,
-      "milesProgram": "KrisFlyer (DBS Points)"
+      "milesProgram": "KrisFlyer (DBS Points)",
+      "fcyBaseMilesPerDollar": 4.0
     },
     {
       "id": "citi-rewards",
@@ -354,7 +355,8 @@
         "utilities"
       ],
       "fcyFeePercent": 0.035,
-      "milesProgram": "KrisFlyer (360° Rewards)"
+      "milesProgram": "KrisFlyer (360° Rewards)",
+      "earnBlockSize": 1.0
     },
     {
       "id": "boc-elite-miles-world-mastercard",
