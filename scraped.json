@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T05:45:08Z",
+  "updatedAt": "2026-08-10T03:58:58Z",
   "entries": [
     {
       "id": "uob-preferred-platinum-visa",
@@ -175,9 +175,10 @@
       "earnRules": [],
       "excludedMCCs": [],
       "excludedCategories": [],
-      "fcyBaseMilesPerDollar": 2.1,
+      "fcyBaseMilesPerDollar": 7.0,
       "fcyFeePercent": 0.0325,
-      "milesProgram": "90°N Miles"
+      "milesProgram": "90°N Miles",
+      "earnBlockSize": 1.0
     },
     {
       "id": "amex-krisflyer-ascend",
