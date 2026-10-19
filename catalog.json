@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "updatedAt": "2026-08-17T03:01:58Z",
+  "version": 13,
+  "updatedAt": "2026-10-19T07:27:03Z",
   "entries": [
     {
       "id": "uob-preferred-platinum-visa",
@@ -426,7 +426,7 @@
       "issuer": "UOB",
       "productName": "Lady's Solitaire Card",
       "network": "mastercard",
-      "baseMilesPerDollar": 4.0,
+      "baseMilesPerDollar": 10.0,
       "earnRules": [
         {
           "id": "uob-ladys-solitaire-card.chosen-categories",
